@@ -39,6 +39,6 @@ author = {Olga Okrut, Keith Cannon, Faisal Shah Khan, Kareem H. El-Safty, Nada E
 
 
 # License
-This work is licensed under the [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
+This work is licensed under the [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0) and is owned by [Dark Star Quanutm Lab Inc](https://www.darkstarquantumlab.com/)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
