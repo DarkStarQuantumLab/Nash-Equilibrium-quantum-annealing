@@ -1,0 +1,2 @@
+dwave-ocean-sdk==4.4.0
+dwave-neal==0.5.9
