@@ -21,7 +21,7 @@ The content of this Jupyter Notebook [Nash Equilibrium](https://github.com/DarkS
 Olga Okrut, Keith Cannon, Faisal Shah Khan, Kareem H. El-Safty, Nada Elsokkary
 
 ## How to Cite
-If you extend, use this work or the dataset, please cite the [paper]() where it was introduced:
+If you extend, use this work or the dataset, please cite the [paper](https://arxiv.org/pdf/2112.12583.pdf) where it was introduced:
 
 ```
 @article{Olga,
@@ -31,7 +31,7 @@ pages = {},
 year = {2022},
 issn = {},
 doi = {},
-url = {},
+url = { arXiv:2112.12583v2},
 author = {Olga Okrut, Keith Cannon, Faisal Shah Khan, Kareem H. El-Safty, Nada Elsokkary}
 }
 ```
