@@ -32,7 +32,7 @@ year = {2022},
 issn = {},
 doi = {},
 url = { arXiv:2112.12583v2},
-author = {Olga Okrut, Keith Cannon, Faisal Shah Khan, Kareem H. El-Safty, Nada Elsokkary}
+author = {Olga Okrut, Keith Cannon, Kareem H. El-Safty, Nada Elsokkary, Faisal Shah Khan}
 }
 ```
 
