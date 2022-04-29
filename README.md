@@ -20,7 +20,11 @@ The execution on the QPU is avaliable [NE in QPU](https://github.com/DarkStarQua
 
 
 ## Authors
-Olga Okrut, Keith Cannon, Faisal Shah Khan, Kareem H. El-Safty, Nada Elsokkary
+[Olga Okrut](https://github.com/olgOk)
+[Keith Cannon](https://github.com/krpcannon) 
+[Faisal Shah Khan](https://github.com/FShahKhan) 
+[Kareem H. El-Safty](https://github.com/kareem1925)
+[Nada Elsokkary](https://github.com/NadaElsokkary)
 
 ## How to Cite
 If you extend, use this work or the dataset, please cite the [paper](https://arxiv.org/pdf/2112.12583.pdf) where it was introduced:
