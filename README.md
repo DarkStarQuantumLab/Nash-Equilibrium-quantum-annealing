@@ -14,7 +14,9 @@ pip install dwave-ocean-sdk==4.4.0 dwave-neal==0.5.9
 ```
 
 # Notebooks
-The content of this Jupyter Notebook [Nash Equilibrium](https://github.com/DarkStarQuantumLab/NashEquilibrium/blob/main/Nash_Equilibrium.ipynb) can be run on Colab and it contains the two examples mentioned in the paper.
+The simulated annealing is avaliable [Nash Equilibrium](https://github.com/DarkStarQuantumLab/NashEquilibrium/blob/main/Nash_Equilibrium.ipynb) can be run on Colab and it contains the three examples mentioned in the paper.
+
+The execution on the QPU is avaliable [NE in QPU](https://github.com/DarkStarQuantumLab/NashEquilibrium/blob/main/NE_in_QPU.ipynb)
 
 
 ## Authors
