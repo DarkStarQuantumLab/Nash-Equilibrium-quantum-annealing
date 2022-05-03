@@ -28,15 +28,15 @@ If you extend, use this work or the dataset, please cite the [paper](https://arx
 
 ```
 @article{Olga,
-title = {Calculating Nash equilibrium on quantum annealers},
-journal = {},
-pages = {},
-year = {2022},
-issn = {},
-doi = {},
-url = { arXiv:2112.12583v2},
-author = {Olga Okrut, Keith Cannon, Kareem H. El-Safty, Nada Elsokkary, Faisal Shah Khan}
+    title={Calculating Nash Equilibrium on Quantum Annealers},
+    author={Olga Okrut and Keith Cannon and Kareem H. El-Safty and Nada Elsokkary and Faisal Shah Khan},
+    year={2022},
+    eprint={2112.12583},
+    archivePrefix={arXiv},
+    doi = {10.48550/ARXIV.2112.12583},
+    primaryClass={cs.GT}
 }
+
 ```
 
 
