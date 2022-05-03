@@ -10,7 +10,7 @@ The code has been tested using Python 3.7, 3.8, and 3.9.
 
 The following commandline should install the required packages. It's always good to create a virtual environement to avoid dependencies issues.
 ```
-pip install dwave-ocean-sdk==4.4.0 dwave-neal==0.5.9 
+pip install dwave-ocean-sdk==4.4.0 dwave-neal==0.5.9 amazon-braket-ocean-plugin
 ```
 
 # Notebooks
