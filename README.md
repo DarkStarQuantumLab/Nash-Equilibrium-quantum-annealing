@@ -6,7 +6,7 @@ However, the problem of finding all Nash equilibria in strategic games is a [com
 
 Nash equilibrium is a two-fold quadratic optimization problem with constraints. This problem was formatted as a single, constrained quadratic optimization in 1964 by Mangasarian and Stone (Two-Person Nonzero-Sum Games and Quadratic Programming). Here, we show that adding penalty terms to the quadratic function formulation of Nash equilibrium gives a quadratic unconstrained binary optimization (QUBO) formulation of this problem that can be executed on quantum annealers. Three examples are discussed to highlight the success of the formulation, and an overall, time-to-solution (hardware + software processing) speed up by seven to ten times is reported on the quantum annealer developed by D-Wave Systems. The quantum annealer was accessed through Amazon Braket, AWS quantum computing service platform. 
 
-(PDF) Calculating Nash Equilibrium on Quantum Annealers. Available from: https://www.researchgate.net/publication/360264494_Calculating_Nash_Equilibrium_on_Quantum_Annealers [accessed Nov 06 2022].
+(PDF) Calculating Nash Equilibrium on Quantum Annealers. Available from: https://www.researchgate.net/publication/377532329_Calculating_Nash_equilibrium_on_quantum_annealers 
 
 The content of this github repository contains the simulation of the examples found in the paper.
 
