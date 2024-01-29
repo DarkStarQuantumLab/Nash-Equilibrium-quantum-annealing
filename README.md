@@ -1,6 +1,7 @@
 # Calculating Nash equilibrium on quantum annealers
 
 Peer-reviewed and published in Annals of Operations Research: https://link.springer.com/article/10.1007/s10479-023-05700-z
+
 Available at: https://www.researchgate.net/publication/377532329_Calculating_Nash_equilibrium_on_quantum_annealers
 
 When diplomats draft international agreements, they are engaged in a strategic game in which they are looking for a **Nash equilibrium**: an agreement from which unilateral deviation by any party will be harmful to the interests of that party. Likewise, when policymakers draft self-policing policies (for example, to mitigate climate change), or financial analysts look for the best market move, they are calculating Nash equilibria. Surprisingly, when birds look for the best nesting grounds during breeding season, they engage in similar strategic games and seek out a Nash equilibrium solution. So ubiquitous is the idea of Nash equilibrium in human activity and nature, and so elegant the mathematical engine that runs it, that its inventor - the mathematician John Nash - was awarded the Nobel prize in economics in 1994.
